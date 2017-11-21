@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/classification/SVM/kbest_label.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/classification/decision tree/kbest_label.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/classification/kNN/kbest_label.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_preprocess/dimension reduction/select_k_best/bankloan-train.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data_preprocess/dimension reduction/select_k_best/kbest_label.csv" charset="UTF-8" />
+  </component>
+</project>
